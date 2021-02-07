@@ -1,4 +1,4 @@
 dependencies:
-- sympy
+- sympy==1.5.1
 - octave_kernel
 - octave
