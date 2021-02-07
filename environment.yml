@@ -1,3 +1,5 @@
 dependencies:
+- sympy
 - octave_kernel
 - octave
+- symbolic
