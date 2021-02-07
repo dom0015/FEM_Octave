@@ -2,4 +2,4 @@ dependencies:
 - sympy
 - octave_kernel
 - octave
-- symbolic
+- octave_symbolic
